@@ -1,0 +1,16 @@
+CXX=g++
+CXXFLAGS=-Wall -Wextra -pedantic -std=c++11 -lpthread
+
+all: monitor sensor
+
+monitor: monitor.cpp
+  $(CXX) $(CXXFLAGS) $^ -o $@
+
+sensor: sensor.cpp
+  $(CXX) $(CXXFLAGS) $^ -o $@
+
+run_monitor:
+  bash -c "./monitor -b 10 -t file-temp.txt -h file-ph.txt -p pipe1"
+
+clean:
+  rm -f monitor sensor

@@ -1,0 +1,7 @@
+Medicion de temperatura 1: 68 || Hora de la medicion: 13:55:34
+Medicion de temperatura 2: 69 || Hora de la medicion: 13:55:37
+Medicion de temperatura 3: 71 || Hora de la medicion: 13:55:40
+Medicion de temperatura 4: 70 || Hora de la medicion: 13:55:43
+Medicion de temperatura 5: 21 || Hora de la medicion: 13:55:46
+Medicion de temperatura 6: 90 || Hora de la medicion: 13:55:49
+Medicion de temperatura 7: 50 || Hora de la medicion: 13:55:52
