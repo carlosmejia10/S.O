@@ -1,10 +1,10 @@
-/*
-Nombres:  Nicolas Sanchez
-          Miguel Duarte
+/**************************************
+Autores:  Carlos Mejia
+          Juan Paez
 
-Fecha: 27/04/2024
-Tema: Monitoreo de Sensores
-*/
+Fecha: 28/04/2024
+Tema: PROYECTO (Monitoreo de Sensores)
+**************************************/
 #ifndef BUFFER_H
 #define BUFFER_H
 
